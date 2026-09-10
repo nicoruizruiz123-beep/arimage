@@ -1,0 +1,2 @@
+# arimage
+realidad aumentada taller 
